@@ -1,13 +1,8 @@
-# Notice (30th July, 2016)
-I am no longer maintaining this project as there is a far better tool to do this now called [Telagraf](https://github.com/influxdata/telegraf), which supports sending to InfluxDB and Graphite.
-
-You can a blog post on how to set it up here: [https://hodgkins.io/windows-metric-dashboards-with-influxdb-and-grafana](https://hodgkins.io/windows-metric-dashboards-with-influxdb-and-grafana)
-
-# Graphite PowerShell Functions
+# Graphite PowerShell Functions - Powershell 2.0 compatible
 
 A group of PowerShell functions that allow you to send Windows Performance counters to a Graphite Server, all configurable from a simple XML file.
 
-[![GitHub Version](https://img.shields.io/github/release/MattHodge/Graphite-PowerShell-Functions.svg)](https://github.com/MattHodge/Graphite-PowerShell-Functions/releases)
+(https://github.com/MattHodge/Graphite-PowerShell-Functions/releases)
 
 More details at [http://www.hodgkins.net.au/mswindows/using-powershell-to-send-metrics-graphite/](http://www.hodgkins.net.au/mswindows/using-powershell-to-send-metrics-graphite/)
 
